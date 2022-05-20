@@ -7,6 +7,9 @@ Internship Type - Work from Home
 Task-1 : Basic Banking System
 
 
+Demo Link- https://pushkarshukla07.github.io/Basic-Banking-App/
+
+
 <p float="center">
   <img src="demo_vedio.gif" />
 </p>
